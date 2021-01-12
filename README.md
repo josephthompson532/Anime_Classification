@@ -1,4 +1,4 @@
-# Anime_Classification
+# Image_Tag_Classification
 
 
 ## Purpose
